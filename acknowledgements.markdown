@@ -1,5 +1,6 @@
 ---
 title: Acknowledgements
+nav: false
 ---
 
 # Acknowledgements
