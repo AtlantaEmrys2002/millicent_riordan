@@ -1,5 +1,4 @@
 ---
-title: Acknowledgements
 nav: false
 ---
 
