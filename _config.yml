@@ -45,6 +45,10 @@ include:
   - _include
   - _layouts
 
+header_pages:
+ - experience.html
+ - projects.html
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
