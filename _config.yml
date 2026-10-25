@@ -24,7 +24,7 @@ include:
   - _include
   - _layouts
 
-nav_pages:
+header_pages:
 - projects.html
 - experience.html
 
