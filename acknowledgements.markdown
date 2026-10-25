@@ -4,8 +4,6 @@ layout: page
 permalink: /Acknowledgements/
 ---
 
-## Acknowledgements
-
 This website would not have been made possible without the following resources:
 
 - [Avatar Creation](https://getavataaars.com/?accessoriesType=Prescription02&avatarStyle=Circle&clotheType=BlazerShirt&eyeType=Default&hairColor=Blonde&mouthType=Smile&skinColor=Pale&topType=LongHairStraight)
