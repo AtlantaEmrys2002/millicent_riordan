@@ -1,6 +1,5 @@
 ---
 nav_exclude: true
-order: 4
 ---
 
 # Acknowledgements
