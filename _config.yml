@@ -23,7 +23,3 @@ sass:
 include:
   - _include
   - _layouts
-
-header_pages:
- - experience.html
- - projects.html
