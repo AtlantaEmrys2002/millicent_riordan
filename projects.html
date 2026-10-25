@@ -1,0 +1,128 @@
+---
+layout: page
+title: Projects
+permalink: /Projects/
+---
+
+<head>
+  <style>
+    /* Create three unequal columns that floats next to each other */
+    .column {
+      float: left;
+      padding: 10px;
+    }
+
+    .left {
+      width: 25%;
+      padding: 10px;
+      margin: auto; 
+      height: auto;
+    }
+
+    .right {
+      width: 75%;
+      padding: 10px;
+      margin: auto; 
+      height: auto;
+    }
+
+    /* Clear floats after the columns */
+    .row {
+      display: flex;
+      padding-bottom: 20px;
+      clear: both;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Current Projects</h2>
+
+  <hr>
+
+  <div class="row">
+    <div class="column left">
+      <img src="/images/Leo_Rover.png" alt="Leo Rover">
+    </div>
+    <div class="column right">
+      <h3>Developing an Autonomous Retrieval Robot</h3>
+      <p>
+        My team have constructed a Leo Rover and are in the process of implementing custom object detection, navigation, and manipulator 
+        software that allows the robot to autonomously traverse unknown environments, retrieve objects, and return them to various zones.
+      </p>
+    </div>
+  </div>
+
+  <h2>Previous Projects</h2>
+
+  <hr>
+
+  <div class="row">
+    <div class="column left">
+      <img src="/images/Simulated_Count_Map.png" alt="Simulated photon count map of gamma-ray night sky.">
+    </div>
+    <div class="column right">
+      <a href="https://github.com/AtlantaEmrys2002/MISCADA_Project"><h3>Simulating and Discovering New High-Energy Astronomical Objects</h3></a>
+      <p> Over a six-month research period, I developed new methods for simulating <i>Fermi</i> Large Area Telescope (LAT) observations of the &gamma;
+        -ray sky. After creating realistic simulations of active galactic nuclei and pulsars, I applied 22 novel machine and deep learning-based 
+        source extraction algorithms to real <i>Fermi</i> observations. 11 of my novel algorithms independently discovered >98% of
+        the sources already included in the <a href="https://arxiv.org/abs/1902.10045">4FGL</a> catalog. As the first author to apply ML and DL source
+        extraction algorithms to real <i>Fermi</i> data, I discovered thousands of new &gamma;-ray source candidates. 
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div class="column right">
+      <a href="/simulations/multishell_novel.html"><h3>Designing ISL Topologies for LEO Satellite Networks</h3></a>
+      <p>I created novel algorithms for constructing low-latency, resilient, and stable inter-satellite link (ISL) network 
+        topologies for satellite mega-constellations in low Earth orbit (LEO). These novel algorithms improved on the
+        state-of-the art with latency reduced by 47% for constellations such as Starlink and mean hop count reduced by 52% - 73%. 
+      </p>
+    </div>
+    <div class="column left">
+      <img src="/images/LEO_Satellite_Simulation.png" alt="Simulation of Novel LEO Satellite Megaconstellation Topology">
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div class="column left">
+      <img src="/videos/robot_walker_run.gif" alt="Bipedal robot running over simulated terrain scattered with obstacles.">
+    </div>
+    <div class="column right">
+      <h3>Training a Robot to Navigate Extreme Terrain</h3>
+      <p>
+        I utilised off-policy, model-free reinforcement learning techniques to train a simulated bipedal robot to navigate difficult 
+        terrain as quickly as possible. The final algorithm was a heavily modified version of the 
+        <a href="https://arxiv.org/abs/1802.09477">Twin Delayed Deep Deterministic (TD3)</a> algorithm. The robot learnt to run, jump, and hop in
+        the environment in fewer than 1500 training epochs.
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row">
+    <div class="column right">
+      <h3>Breaking Discrete Logarithm-Based Codes</h3>
+      <p>
+        For my third year cryptography coursework, I built efficient, fast implementations of factorisation algorithms to hack discrete logarithm-based
+        cryptographic schemes, such as the Diffie-Hellman Key Exchange and ElGamal cryptosystem.
+      </p>
+    </div>
+    <div class="column left">
+      <img src="/images/Diffie_Hellman.jpg" alt="Blackboard displaying the principles behind the Diffie-Hellman Key Exchange.">
+      <a href="#footnote1">[1]</a>
+    </div>
+  </div>
+  
+  <p id="footnote1">[1]
+    <a href="https://commons.wikimedia.org/wiki/File:Mathematics_(cryptography)_on_a_blackboard.jpg">Mathematics (cryptography) on a blackboard</a> by David Malone is licensed under <a href="https://creativecommons.org/licenses/by/4.0/deed.en">CC BY 4.0</a>
+  </p>
+
+</body>
