@@ -4,7 +4,7 @@ layout: page
 permalink: /Acknowledgements/
 ---
 
-# Acknowledgements
+## Acknowledgements
 
 This website would not have been made possible without the following resources:
 
