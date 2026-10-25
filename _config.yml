@@ -23,7 +23,7 @@ title: Millicent Riordan
 description: >
   Welcome to my website! 
 # To access more information about my projects, click through to my GitHub. To learn more about my experience, see my LinkedIn.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/millicent_riordan/" # the subpath of your site, e.g. /blog
 url: "https://personal_website_mr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  AtlantaEmrys2002
 linkedin_username: millicent-riordan-b56a84327
