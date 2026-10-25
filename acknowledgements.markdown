@@ -1,7 +1,3 @@
----
-nav: false
----
-
 # Acknowledgements
 
 This website would not have been made possible without the following resources:
