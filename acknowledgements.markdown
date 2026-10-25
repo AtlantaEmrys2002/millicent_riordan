@@ -25,6 +25,7 @@ Furthermore, when constructing the site, I consulted these resources and would r
 - [Customising Jekyll](https://www.kevsrobots.com/learn/jekyll/04_customizing.html)
 - [Editing Minima Theme](https://stackoverflow.com/questions/60231233/editing-the-footer-in-github-pages-jekylls-default-minima-theme)
 - [GIFs in HTML](https://stackoverflow.com/questions/72936848/how-do-you-add-gifs-to-html)
+- [GitHub and Jekyll](https://stackoverflow.com/questions/30906087/jekyll-deployment-on-github-pages-doesnt-format-correctly-no-styling)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
 - [Images in Jekyll](https://eduardoboucas.com/blog/2014/12/07/including-and-managing-images-in-jekyll.html)
 - [Jekyll Documentation](https://jekyllrb.com)
